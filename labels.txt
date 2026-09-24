@@ -1,0 +1,7 @@
+0 Fonte
+1 Memoria RAM
+2 Placa de video
+3 Placa-mae
+4 Processador
+5 SSD
+6 Water Cooler
